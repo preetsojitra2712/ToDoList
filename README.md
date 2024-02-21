@@ -2,7 +2,7 @@
 Displays your to-do tasklist for the day along with to-learn checklist everytime you are opening a new tab in Google Chrome
 
 
-![Screenshot](https://github.com/preetsojitra/ToDoList/blob/master/screenshot.PNG)
+![Screenshot](screenshot.PNG)
 
 ## Installation
 * Fork and clone this project to your local system
